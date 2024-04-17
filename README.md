@@ -13,14 +13,13 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![SQL](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
 ![ADVPL](https://img.shields.io/badge/-Advpl-05122A?style=flat&logo=advpl)
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
-
 
 ## 🛠 &nbsp;Other stacks
 
-![SQL](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=white)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
+![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
 
