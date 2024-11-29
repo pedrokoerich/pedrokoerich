@@ -18,7 +18,6 @@
 
 ## 🛠 &nbsp;Other stacks
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=spring-boot)
@@ -26,8 +25,8 @@
 
 ## 📔 &nbsp;Learning more about
 
-![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
 
 ## 🌍 &nbsp;Activities
 <p align="left">
