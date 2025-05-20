@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrokoerich&color=blue" alt="Profile views" /> </p>
 
-- Hey! I'm Pedro, a 21yo brazilian software developer who's been head over heels for coding since i turned 17. currently diving into fullstack and studying non-stop to become the best version of myself. Feel free to contact me!
+- Hey! I'm Pedro, a 22yo brazilian software developer who's been head over heels for coding since i turned 17. currently diving into fullstack and studying non-stop to become the best version of myself. Feel free to contact me!
 - 🌱 Driven by challenges and data enthusiast.
 - 📫 Contact-me at: pedro.koerich@outlook.com.br.
 
